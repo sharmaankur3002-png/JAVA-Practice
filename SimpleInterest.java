@@ -5,7 +5,7 @@ public class SimpleInterest{
     public static void main(String[] args) {
         Scanner input =  new Scanner(System.in);
         
-        System.out.println("SIMPLE INTREST CALCULATOR ");
+        System.out.println("SIMPLE INTREST CALCULATER ");
 
         System.out.print("ENTER VALUE OF P = ");
         double P = input.nextDouble();
