@@ -22,7 +22,7 @@ public class Occurrences {
                 occ++;
             }
         }
-        System.out.println(num + " occurrences in araay = " + occ);
+        System.out.println(num + " occurrences in array = " + occ);
 
     }
 }
